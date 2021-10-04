@@ -2,13 +2,14 @@ import React, { useState } from 'react';
 import './App.css';
 import Notes from './components/Notes';
 import Counter from './components/Counter/Counter'
+import InputForm from './components/InputForm/InputForm';
 import ReactDOM from 'react-dom';
 
 
 const App = () => {
   return(
     <div>
-      <Notes />
+      <InputForm />
     </div>
   )
 }
