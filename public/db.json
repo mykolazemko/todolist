@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "lorem",
+        "body": "body1"
+    },
+    {
+        "id": 2,
+        "title": "ipsum",
+        "body": "body1"
+    },
+    {
+        "id": 3,
+        "title": "dolor",
+        "body": "body1"
+    }
+]
